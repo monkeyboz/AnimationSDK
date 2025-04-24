@@ -1,0 +1,14 @@
+main:
+	top
+	content
+	bottom
+settings:
+	top
+	content
+bottom_100%_92px:
+	home	
+	settings	
+top_100%_92px:
+	profile
+grid#:
+	#:total_panels

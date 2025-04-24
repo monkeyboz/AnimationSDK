@@ -1,0 +1,16 @@
+home_grid3_layout_main:
+	select character:characterSelect
+	settings
+	start
+	bottom:menu
+settings_grid6_layout_settings:
+	graphics
+	controls	
+characterSelect_scroll_layout_main:
+	character_list
+graphics_layout_settings:
+	quality:slider[low,medium,high]
+	user:text
+	link:social_links
+controls_layout_settings:
+	movement:[text,speech,controls]
